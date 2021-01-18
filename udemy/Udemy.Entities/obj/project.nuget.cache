@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lIof8kNpxGgMS4xeGlPOk13xpE8hf6RMLOkm3x8L6VzIerQn3/IA5H6ZtE5+wsGMkJXom3CzYromVlpL/LndlA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayip\\OneDrive\\Masaüstü\\C#eğitim\\Telefon Rehberi Uygulaması\\udemy\\Udemy.Entities\\Udemy.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayip\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tayip\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

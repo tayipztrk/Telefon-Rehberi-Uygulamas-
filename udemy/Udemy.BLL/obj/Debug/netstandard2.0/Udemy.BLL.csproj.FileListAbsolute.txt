@@ -1,0 +1,14 @@
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\bin\Debug\netstandard2.0\Udemy.BLL.deps.json
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\bin\Debug\netstandard2.0\Udemy.BLL.dll
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\bin\Debug\netstandard2.0\Udemy.BLL.pdb
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\bin\Debug\netstandard2.0\Udemy.Core.dll
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\bin\Debug\netstandard2.0\Udemy.Entities.dll
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\bin\Debug\netstandard2.0\Udemy.Core.pdb
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\bin\Debug\netstandard2.0\Udemy.Entities.pdb
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\obj\Debug\netstandard2.0\Udemy.BLL.csprojAssemblyReference.cache
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\obj\Debug\netstandard2.0\Udemy.BLL.AssemblyInfoInputs.cache
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\obj\Debug\netstandard2.0\Udemy.BLL.AssemblyInfo.cs
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\obj\Debug\netstandard2.0\Udemy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\obj\Debug\netstandard2.0\Udemy.BLL.csproj.CopyComplete
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\obj\Debug\netstandard2.0\Udemy.BLL.dll
+C:\Users\tayip\OneDrive\Masaüstü\C#eğitim\Telefon Rehberi Uygulaması\udemy\Udemy.BLL\obj\Debug\netstandard2.0\Udemy.BLL.pdb

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "JM98gH0FNGUFMB3AzmmrgWURRsHndx7LLP4+DCGcdgJtPZtRdTp3Cs+xk6lVcXZV4Xjb/J59cxqFxaUFL3y+0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tayip\\OneDrive\\Masaüstü\\C#eğitim\\Telefon Rehberi Uygulaması\\udemy\\Udemy.Core\\Udemy.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tayip\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tayip\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tayip\\.nuget\\packages\\newtonsoft.json\\6.0.8\\newtonsoft.json.6.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 6.0.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
